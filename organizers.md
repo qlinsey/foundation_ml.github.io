@@ -23,47 +23,57 @@ is a Principal Computational Engineering Specialist at Amazon Web Services (AWS)
 <img src="/assets/images/ik.jpg" alt="Vitus Benson" width="150" />
 <div class='bioWrapper'>
 [**Vitus Benson**](https://www.bgc-jena.mpg.de/person/vbenson/4777761)
-is a research engineer at DeepMind working with the DeepMind
-for Google team. Previously, she was a Senior Machine Learning
-Researcher with the Cortex Applied Research team at Twitter UK, focusing
-on real-time personalisation and causal analysis for recommendations.
+is an ELLIS PhD student at Max Planck Institute for Biogeochemistry, ELLIS Unit Jena and ETH Zürich. He leverages machine learning to deepen our understanding of the Earth and climate sciences. In particular he is working on data-driven modeling of the carbon cycle.
+For this he is emulating an atmospheric transport model with deep learning. Furthermore he is interested in inverse modeling with PDEs. In addition he is a leading member of the EarthNet team, where he develops deep neural networks to predict the influence of weather on vegetation, his models can be used to estimate the localized impacts of weather extremes, towards improved early warning and to enhance humanitarian anticipatory action. Prior to his current work, he received a M.Sc. in Mathematical Physics from Leipzig University and a B.Sc. in Mathematics from the University of Göttingen. His research interests are broadly speaking Deep Learning, Biogeochemistry, Climate Risk Mitigation and Scientific Computing.
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img src="/assets/images/nm.jpg" alt="Nina Miolane" width="150" />
+<img src="/assets/images/nm.jpg" alt="Boran Han" width="150" />
 <div class='bioWrapper'>
-[**Nina Miolane**](https://www.ece.ucsb.edu/people/faculty/nina-miolane) is an Assistant Professor at the University of California, Santa Barbara (UCSB) in Computational Biomedicine. She holds an M.S. in Mathematics from Ecole Polytechnique (France) & Imperial College (UK), and a Ph.D. in Computer Science from INRIA (France) in collaboration with Stanford University. After her studies, Nina spent two years at Stanford University in Statistics as a postdoctoral fellow, and worked as a deep learning software engineer in the Silicon Valley. At UCSB, Nina directs the [BioShape Lab](https://bioshape.ece.ucsb.edu/), whose goal is to explore the “geometries of life” and turn biological shapes into biomedical insights. The BioShape Lab also co-develops [Geomstats](https://github.com/geomstats/geomstats), an open-source software for geometric statistics and (deep) learning.
+[**Boran Han**](https://www.linkedin.com/in/boran-han-ba753966/) is an Applied Scientist in the DeepEarth Group at AWS AI Research and Education. She earned her Ph.D. in biophysics from Harvard University under the guidance of Prof. Xiaowei Zhuang. Throughout her doctoral journey, she delved into pioneering super-resolution imaging techniques, with her research being published in esteemed journals such as Science and Cell, among others. Upon completion of her Ph.D., she joined Shell, where she leveraged deep learning to expedite seismic reconstruction, a complex inverse problem. Since joining AWS, Boran has redirected her research focus towards the development of multimodal foundation models specifically designed for scientific applications. One of her primary objectives has been to enhance the accuracy, robustness and explainability/interpretability of these foundation models. Additionally, she is dedicated to developing new foundation models tailored for scientific applications. Her commitment to merging advanced AI techniques with scientific challenges places her at the forefront of this dynamic interdisciplinary field.
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img align="left" src="/assets/images/br.jpg" alt="Bastian Rieck" width="150">
+<img align="left" src="/assets/images/br.jpg" alt="George Karypis" width="150">
 <div class='bioWrapper'>
-[**Bastian Rieck**](https://bastian.rieck.me) is the principal
-investigator of the AIDOS Lab at the Institute of AI for Health at the
-Helmholtz Centre Munich, Germany. Bastian received his M.Sc. degree in
-mathematics, as well as his Ph.D. in computer science, from Heidelberg
-University in Germany. Previously, he was a postdoctoral researcher and,
-later on, senior assistant at the Machine Learning and Computational
-Biology Lab at ETH Zurich. His main research interests are algorithms for
-graph classification and time series analysis, with a focus on
-biomedical applications and healthcare topics. Bastian is also enticed
-by finding new ways to explain neural networks using concepts from
-algebraic and differential topology. He is a big proponent of scientific
-outreach and enjoys blogging about his research, academia, supervision,
-and software development. Bastian recently organized a tutorial on
-topological machine learning for ECML, the European Conference on
-Machine Learning and Principles and Practice of Knowledge Discovery in
-Databases, a workshop on Topological Data Analysis & Beyond at NeurIPS
-2020, and a workshop on Geometrical and Topological Representation
-Learning at ICLR 2021.
+[**George Karypis**](https://cse.umn.edu/cs/george-karypis) is a Distinguished McKnight University Professor in the Department of Computer Science & Engineering at the University of Minnesota. He received his B.S. and Ph.D. in Computer Science from the University of Minnesota. He joined the Department of Computer Science & Engineering in 1999. He was promoted to full professor in 2009. He is the co-author of two books and has contributed to the development of multiple software libraries.  Additionally, he serves on the program committees of many conferences and workshops, and on the editorial boards of the IEEE Transactions on Big Data, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, Journal of Data Science and Analytics, Social Network Analysis and Data Mining Journal, International Journal of Data Mining and Bioinformatics, the journal on Current Proteomics, Advances in Bioinformatics, and Biomedicine and Biotechnology. He is an IEEE Fellow.
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img align="left" src="/assets/images/gw.jpg" alt="Guy Wolf" width="150">
+<img align="left" src="/assets/images/gw.jpg" alt="Aditi Krishnapriyan" width="150">
 <div class='bioWrapper'>
-[**Guy Wolf**](http://guywolf.org) is an Associate Professor in the Department of Mathematics and Statistics at the Université de Montréal and a Core Member of Mila - the Québec AI Institute. He is also affiliated with IVADO - the institute of data valorization at Montreal. His research focuses on manifold learning, representation learning, and geometric deep learning for exploratory data analysis, including methods for dimensionality reduction, visualization, denoising, data augmentation, and coarse graining, with particular focus on applications in biomedical data exploration. His recent organization activities include the CRM-IVADO Industrial Problem Solving Workshop (IPSW 2020), a two-part mini-symposium on geometric deep learning as part of the inaugural SIAM Conference on Mathematics of Data Science held online in June 2020, and a NeurIPS 2020 workshop on Topological Data Analysis & Beyond.
+[**Aditi Krishnapriyan**](https://a1k12.github.io/) is an Assistant Professor of Chemical and Biomolecular Engineering; Electrical Engineering and Computer Sciences at the University of California, Berkeley.  She is a Bruce and Susan Stangeland Processor and Member of the Berkeley AI Research (BAIR). Her research interests are focused on developing machine learning methods that are motivated by the opportunities and challenges in science and engineering. Some of the areas of exploration include approaches to incorporate physical inductive biases into ML models to improve generalization, the advantages that ML can bring to classical physics-based numerical solvers (such as through end-to-end differentiable frameworks and implicit layers), and better learning strategies for distribution shifts in the physical sciences. Her foundational research is informed by and grounded in applications in physics, fluid and molecular dynamics, materials design, climate science, and other related areas. Her work also includes interfacing with other fields including numerical methods, dynamical systems theory, quantum mechanical simulations, computational geometry, and optimization.
+</div>
+</div>
+
+<div class='orgWrapper'>
+<img align="left" src="/assets/images/br.jpg" alt="Danielle Maddix Robinson" width="150">
+<div class='bioWrapper'>
+[**Danielle Maddix Robinson**](https://dcmaddix.github.io/) is a Senior Applied Scientist in the Machine Learning Forecasting Group within AI Research and Education at Amazon Web Services (AWS). She graduated with her PhD in Computational and Mathematical Engineering from the Institute of Computational and Mathematical Engineering (ICME) at Stanford University. She was advised by Professor Margot Gerritsen and developed robust numerical methods to remove spurious temporal oscillations in the degenerate Generalized Porous Medium Equation. She is passionate about the underlying numerical analysis, linear algebra and optimization methods behind numerical PDEs and applying these techniques to deep learning. She joined AWS in 2018 shortly after graduating, and has been working on developing statistical and deep learning models for time series forecasting. In this past year, she has been leading the research initiative on developing models for physics-constrained machine learning for scientific computing on the DeepEarth team. In particular, she has researched how to apply ideas from numerical methods, e.g., finite volume schemes, to improve the accuracy of black-box ML models for ODEs and PDEs with applications to epidemiology, aerodynamics, ocean and climate models.
+</div>
+</div>
+
+<div class='orgWrapper'>
+<img align="left" src="/assets/images/br.jpg" alt="Michael W. Mahoney" width="150">
+<div class='bioWrapper'>
+[**Michael W. Mahoney**](https://www.stat.berkeley.edu/~mmahoney/) is at the University of California at Berkeley in the Department of Statistics and at the International Computer Science Institute (ICSI).  He is also a faculty scientist at the Lawrence Berkeley National Laboratory.  He works on algorithmic and statistical aspects of modern large-scale data analysis.  Much of his recent research has focused on large-scale machine learning, including randomized matrix algorithms and randomized numerical linear algebra, geometric network analysis tools for structure extraction in large informatics graphs, scalable implicit regularization methods, computational methods for neural network analysis, physics informed machine learning, and applications in genetics, astronomy, medical imaging, social network analysis, and internet data analysis.  He received his PhD from Yale University with a dissertation in computational statistical mechanics, and he has worked and taught at Yale University in the mathematics department, at Yahoo Research, and at Stanford University in the mathematics department.  Among other things, he is on the national advisory committee of the Statistical and Applied Mathematical Sciences Institute (SAMSI), he was on the National Research Council's Committee on the Analysis of Massive Data, he co-organized the Simons Institute's fall 2013 and 2018 programs on the foundations of data science, he ran the Park City Mathematics Institute's 2016 PCMI Summer Session on The Mathematics of Data, and he runs the biennial MMDS Workshops on Algorithms for Modern Massive Data Sets.  He is the Director of the NSF/TRIPODS-funded FODA (Foundations of Data Analysis) Institute at UC Berkeley.  
+</div>
+</div>
+
+
+<div class='orgWrapper'>
+<img align="left" src="/assets/images/br.jpg" alt="Markus Reichstein" width="150">
+<div class='bioWrapper'>
+[**Markus Reichstein**](https://www.bgc-jena.mpg.de/en/reichstein) is Director of the Biogeochemical Integration Department at the Max-Planck-Institute for Biogeochemistry. His main research interests revolve around the response and feedback of ecosystems (vegetation and soils) to climatic variability with an Earth system perspective. Of specific interest is the interplay of climate extremes with ecosystem and societal resilience. He is addressing these topics with a combination of artificial intelligence and system modelling approaches to exploit the wealth of experimental, ground- and satellite-based Earth observations. Markus studied Ecology with Botany, Chemistry and Computer Science as minor and obtained his PhD in Plant Ecology at the University of Bayreuth, Germany. Since 2013, Markus has been Professor for Global Geoecology at the FSU Jena, and founding Director at the Michael-Stifel-Center Jena for Data-driven and Simulation Science. He is fellow within the excellence network ELLIS (European Laboratory for Learning and Intelligent Systems) and founding director of the ELLIS Unit Jena established in 2021. He has been serving as lead author of the IPCC special report on Climate Extremes (SREX), as member of the German Committee Future Earth on Sustainability Research, and the Thuringian Panel on Climate. Recent awards include the Piers J. Sellers Mid-Career Award by the American Geophysical Union (2018), an ERC Synergy Grant (2019) and the Gottfried Wilhelm Leibniz Preis (2020).
+</div>
+</div>
+
+<div class='orgWrapper'>
+<img align="left" src="/assets/images/br.jpg" alt="Yuyang (Bernie) Wang" width="150">
+<div class='bioWrapper'>
+[**Yuyang (Bernie) Wang**](https://www.mit.edu/~ywang02/) is a Principal Machine Learning Scientist in Amazon AI Labs, working mainly on large-scale probabilistic machine learning with its application in Forecasting. He received his PhD in Computer Science from Tufts University, MA, US and he holds an MS from the Department of Computer Science at Tsinghua University, Beijing, China. His research interests span statistical machine learning, numerical linear algebra, and random matrix theory. In forecasting, Yuyang has worked on all aspects ranging from practical applications to theoretical foundations.
 </div>
 </div>
