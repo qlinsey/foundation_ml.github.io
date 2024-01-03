@@ -77,3 +77,17 @@ For this he is emulating an atmospheric transport model with deep learning. Furt
 [**Yuyang (Bernie) Wang**](https://www.mit.edu/~ywang02/) is a Principal Machine Learning Scientist in Amazon AI Labs, working mainly on large-scale probabilistic machine learning with its application in Forecasting. He received his PhD in Computer Science from Tufts University, MA, US and he holds an MS from the Department of Computer Science at Tsinghua University, Beijing, China. His research interests span statistical machine learning, numerical linear algebra, and random matrix theory. In forecasting, Yuyang has worked on all aspects ranging from practical applications to theoretical foundations.
 </div>
 </div>
+
+<div class='orgWrapper'>
+<img align="left" src="/assets/images/br.jpg" alt="Andrew Gordon Wilson" width="150">
+<div class='bioWrapper'>
+[**Andrew Gordon Wilson**](https://cims.nyu.edu/~andrewgw/) is an Associate Professor in the Courant Institute of Mathematical Sciences and Center for Data Science at New York University. His work is focused on developing a prescriptive understanding of model construction and generalization, often working with probabilistic and Bayesian methods. His research agenda includes uncertainty representation, scalable inference, physics-inspired machine learning, neural networks for differential equations, and many scientific applications, including protein engineering, spatiotemporal modelling, general relativity, and medical diagnosis. He has organized over 10 highly successful workshops across NeurIPS and ICML, including a major NeurIPS 2017 symposium on interpretable machine learning. Andrew also co-organized the NeurIPS 2021 competition for approximate inference in Bayesian deep learning, has been the EXPO Chair for ICML 2020, 2021, and is the Tutorial Chair for NeurIPS 2022, 2023, and will be the Workshop Chair for ICML 2024. He was also the ICML 2020 tutorial speaker in Bayesian deep learning.
+</div>
+</div>
+
+<div class='orgWrapper'>
+<img align="left" src="/assets/images/br.jpg" alt="Mahkameh (Maggie) Zarekarizi" width="150">
+<div class='bioWrapper'>
+[**Mahkameh (Maggie) Zarekarizi**](https://cims.nyu.edu/~andrewgw/) is a Research Scientist in the World Wide Sustainability group at Amazon Web Services (AWS). She is a climate science subject matter expert across business units that work on or are impacted by environmental hazards. Her research involves the projection and uncertainty quantification of climate-related risks across various hazards and geographies. She uses Decision Making Under Deep Uncertainty (DMDU) techniques to help stakeholders make robust decisions to manage and mitigate their climate risk. Before joining Amazon, Maggie was a data scientist at Jupiter Intelligence, where she led the development of high-resolution global flood and drought risk models leveraging data-driven and machine learning approaches. She completed a postdoctoral scholarship at the Earth and Environmental Systems Institute at Penn State and earned her PhD from the Maseeh College of Engineering at Portland State University. Her PhD research involved assimilating real-time satellite observations into Earth system models to improve their accuracy in forecasting environmental hazards.
+</div>
+</div>
