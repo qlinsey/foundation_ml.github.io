@@ -5,31 +5,24 @@ layout: default
 # Organizers
 
 <div class='orgWrapper'>
-<img src="https://ccom.ucsd.edu/~acloninger/headshot.jpg" alt="Alex Cloninger" width="150" />
+<img src="https://ccom.ucsd.edu/~acloninger/headshot.jpg" alt="Shima Alizadeh" width="150" />
 <div class='bioWrapper'>
-[**Alex Cloninger**](https://ccom.ucsd.edu/~acloninger/index.html) is an Associate Professor in Mathematics and the Halıcıoğlu Data Science Institute at UC San Diego.  He holds a B.S. degree from Washington University in St. Louis, and a PhD in Applied Mathematics and Scientific Computation from the University of Maryland College Park.  He was previously an NSF Postdoc and Gibbs Assistant Professor of Mathematics at Yale University.  Alex researches problems in the area of geometric data analysis and applied harmonic analysis.  He focuses on approaches that model the data as being locally lower dimensional, including data concentrated near manifolds or subspaces.  These types of problems arise in a number of scientific disciplines, including imaging, medicine, and artificial intelligence, and the techniques developed relate to a number of machine learning and statistical algorithms, including deep learning, network analysis, statistical distances, and imaging.  Alex has recently organized special sessions on Laplacians and Applications at SIAM PDE Conference (2017), on AI and Deep Learning in Radiation Oncology at the ASTRO conference (2018), on High-Dimensional Signal Processing and Machine Learning at the Data Science Annual Conference at University of San Francisco Data Science Institute (2018), and on Distance Metrics and Mass Transfer Between High Dimensional Point Clouds at ICIAM (2019).
+[**Shima Alizadeh**](https://www.linkedin.com/in/shima-alizadeh-4853b340/) is an Applied Scientist at AWS AI Labs at Amazon Web Services working on diverse machine learning problems including SciML/AI4Science, Multi-Objective Optimization (MOO), higher order optimization methods, personalization, and recommendations. Prior to joining AWS AI Labs she worked at Adobe as Machine Learning Engineer/Researcher for time-series forecasting problems with applications for intelligent marketing. She received her PhD in Mechanical Engineering from Stanford University with focus on high performance computing (HPC) for computational engineering, where she designed and implemented robust multi-scale models to study physical problems that involve transport phenomena and fluid dynamics. Shima’s passion lies at the interface of HPC for computational physics and Artificial Intelligence to solve problems that are governed by Physics based PDEs and ODEs with various applications such as climate research, transport phenomena, and engineering design optimization. At AWS AI Labs, by leveraging her expertise in HPC, numerical methods, machine learning, and optimization, she has been working on different problems such as Physics-Guided Neural Operators, Uncertainty Quantification (UQ) for SciML models, and ML models that respect physics constraints.
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img src="/assets/images/mk.jpg" alt="Manohar Kaul" width="150" />
+<img src="/assets/images/mk.jpg" alt="Neil Ashton" width="150" />
 <div class='bioWrapper'>
-[**Manohar Kaul**](https://manukaul.github.io)
- is an Associate Professor in the Department of Computer Science and
- Engineering (CSE) at the Indian Institute of Technology, Hyderabad
- (IIT-H), where he heads the क्रम(Krama) Lab. His research interests are
- applied algebraic topology (topological data analysis), geometric
- machine learning (graph and point-cloud representation learning), and
- optimal transport (discrete OT and assignment problems). His work
- also involves developing practical machine learning algorithms with rigorous
- theoretical foundations.
+[**Neil Ashton**](https://www.linkedin.com/in/neilashton/)
+is a Principal Computational Engineering Specialist at Amazon Web Services (AWS), as well as being a fellow of the Institute of Mechanical Engineering (IMechE). He leads the Amazon-wide Computational Fluid Dynamics (CFD) working group and acts as a CFD subject matter expert across the diverse departments using CFD at Amazon. Prior to joining AWS he obtained a Masters and Ph.D. at the University of Manchester focusing on turbulence modeling, and previous positions were at the University of Oxford, NASA Ames Research Center, and Lotus Formula 1 Team, as well as consultancy roles for a range of automotive and aerospace companies . His expertise is on applying and developing the next generation of CFD approaches with a particular focus on interplay between high-fidelity turbulence models, machine learning and high-performance computing. He created the Automotive CFD Prediction Workshop (whose 4th edition is happening in September 2024), and leads the hybrid RANS-LES technical working group for the 5th AIAA High-Lift Prediction CFD Workshop. In the past year his particular focus has been spearheading the development of industrialized versions of ML methods (e.g MeshGraphNet) that can be used to accelerate the engineering design process. 
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img src="/assets/images/ik.jpg" alt="Ira Ktena" width="150" />
+<img src="/assets/images/ik.jpg" alt="Vitus Benson" width="150" />
 <div class='bioWrapper'>
-[**Ira Ktena**](https://sites.google.com/view/sk1712/home)
+[**Vitus Benson**](https://www.bgc-jena.mpg.de/person/vbenson/4777761)
 is a research engineer at DeepMind working with the DeepMind
 for Google team. Previously, she was a Senior Machine Learning
 Researcher with the Cortex Applied Research team at Twitter UK, focusing
