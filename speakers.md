@@ -7,7 +7,7 @@ layout: default
 ## Invited talks
 
 <div class='orgWrapper'>
-<img align="left" src="/assets/images/speakers/johannes_Brandstetter.webp" alt="Johannes Brandstetter" width="150">
+<img align="left" src="assets/images/speakers/johannes_Brandstetter.webp" alt="Johannes Brandstetter" width="150">
 <div class='bioWrapper'>
 [**Johannes Brandstetter**](https://www.jku.at/en/institute-for-machine-learning/about-us/team/ass-prof-dr-johannes-brandstetter/)
  is an Assistant Professor at Johannes Kepler University in Linz and a Guest Researcher at Microsoft Research Amsterdam, working on the intersection of deep learning and physics, aiming to accelerate partial differential equation solving and computational simulations. His research has spanned a range of topics from geometric deep learning, graph-structured learning, reinforcement learning, few-shot learning to particle and high-energy physics. Before starting his professorship, he was senior researcher at Microsoft, ELLIS postdoctoral researcher at the Amsterdam Machine Learning Lab (AMLAB) and at the Johannes Kepler University in Linz. He did his PhD at the CMS experiment at CERN investigating Higgs boson decays.
