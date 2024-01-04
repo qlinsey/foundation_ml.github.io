@@ -6,6 +6,8 @@ layout: default
 
 This is the homepage for our ICLR 2024 workshop on 'AI4DifferentialEquations in Science'.
 
+The workshop will take place in May 2024 in Vienna, Austria (Hybrid).
+
 # Background
 
 Over the past decade, the integration of Artificial Intelligence (AI) for scientific exploration has grown as a transformative force, propelling research into new realms of discovery. The *AI4DifferentialEquations in Science* workshop at ICLR 2024 invites participants on a dynamic journey at the interface of machine learning and computational sciences known as Scientific Machine Learning (SciML).
