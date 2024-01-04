@@ -7,7 +7,7 @@ layout: default
 We welcome all original research papers of up to **4 pages** in length. This length does not include
 references or any supplementary materials. Reviewers are *not* obliged
 to read supplementary materials when reviewing the paper.  Submissions
-should be a single file in `.pdf` format using this style file. The review process is
+should be a single file in `.pdf` format using [this style file](assets/iclr2024.zip). The review process is
 *double-blind*, so please ensure that all papers are appropriately
 anonymized. We reserve the right to desk-reject improperly-anonymized
 papers.
