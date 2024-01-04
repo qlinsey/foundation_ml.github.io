@@ -46,7 +46,7 @@ layout: default
 <div class='orgWrapper'>
 <img align="left" src="assets/images/speakers/jakob_macke.jpeg" alt="Jakob Macke" width="150">
 <div class='bioWrapper'>
-[**Jakob Macke**](https://www.mackelab.org/) is a Professor for “Machine Learning in Science”. The W3 professorship has been set up as part of the Cluster of Excellence “Machine Learning: New Perspectives for the Sciences”. He is also an Adjunct Research Scientist at the Max Planck Institute for Intelligent Systems, Director of the Bernstein Center for Computational Neuroscience, and an ELLIS Fellow and member of the ELLIS Unit Tübingen.
+[**Jakob Macke**](https://www.mackelab.org/) is a Professor for “Machine Learning in Science” at the University of Tübingen. The W3 professorship has been set up as part of the Cluster of Excellence “Machine Learning: New Perspectives for the Sciences”. He is also an Adjunct Research Scientist at the Max Planck Institute for Intelligent Systems, Director of the Bernstein Center for Computational Neuroscience, and an ELLIS Fellow and member of the ELLIS Unit Tübingen.
 Jakob studied mathematics at Oxford University, worked as a PhD student at the Max Planck Institute for Biological Cybernetics in Tübingen, as a postdoc at the Gatsby Unit at University College London, and as a Bernstein Fellow in Tübingen. He was a Max Planck Group Leader at the Caesar Research Centre in Bonn, a Professor at the Centre for Cognitive Science at TU Darmstadt, and from 2018 to 2020, Professor of Computational Neuroengineering at TU Munich. He was a member of the Young Academy at the German Academy of Sciences Leopoldina (2013-2018), and is currently a FENS Kavli Scholar of Excellence.
 </div>
 </div>
