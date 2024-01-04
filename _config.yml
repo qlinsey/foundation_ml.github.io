@@ -9,8 +9,8 @@ navigation:
   # Challenge: "https://github.com/geomstats/challenge-iclr-2022"
   # Accepted Papers: "/papers"
   Speakers: "/AI4DiffEqtnsInSci.github.io/speakers"
-  Schedule: "/AI4DiffEqtnsInSci.github.io/schedule"
   Organizers: "/AI4DiffEqtnsInSci.github.io/organizers"
+  Schedule: "/AI4DiffEqtnsInSci.github.io/schedule"
   # Past Events: "/past"
 
 markdown: kramdown
