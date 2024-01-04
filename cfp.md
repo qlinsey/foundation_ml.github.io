@@ -4,7 +4,7 @@ layout: default
 
 # Call for Papers
 
-We welcome all original research papers of up to *4 pages* in length. This length does not include
+We welcome all original research papers of up to **4 pages** in length. This length does not include
 references or any supplementary materials. Reviewers are *not* obliged
 to read supplementary materials when reviewing the paper.  Submissions
 should be a single file in `.pdf` format using this style file. The review process is
