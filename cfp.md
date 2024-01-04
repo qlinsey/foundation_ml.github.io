@@ -4,11 +4,10 @@ layout: default
 
 # Call for Papers
 
-We welcome all original research papers of up to 4 pages in length,
-using the template provided [below](#style). This length does not include
+We welcome all original research papers of up to *4 pages* in length. This length does not include
 references or any supplementary materials. Reviewers are *not* obliged
 to read supplementary materials when reviewing the paper.  Submissions
-should be a single file in `.pdf` format. The review process is
+should be a single file in `.pdf` format using this style file. The review process is
 *double-blind*, so please ensure that all papers are appropriately
 anonymized. We reserve the right to desk-reject improperly-anonymized
 papers.
@@ -16,32 +15,18 @@ papers.
 This workshop is **non-archival**; even though all accepted papers will be
 available on OpenReview, there are *no* formally-published proceedings.
 
-| **Submission link** | [OpenReview](https://openreview.net/group?id=ICLR.cc/2022/Workshop/GTRL) |
-| **Submission deadline** | Friday, 25 February 2022 (23:59 AoE) |
+| **Submission link** | OpenReview |
+| **Submission deadline** | Saturday, February 3, 2024 (23:59 AoE) |
+| **Notification Date** | Sunday, March 3, 2024 (23:59 AoE) |
 
 # Scope and topics
 
-Please find a list of topics of interest. If
-you are not sure whether your topic might be a good fit for the
-workshop, feel free to contact us at [geometry@topology.rocks](mailto:geometry@topology.rocks).
+We invite all submissions on using machine learning to solve differential equations with applications in science and engineering.
 
-- Applications of geometry- or topology-based models
-- Approximation schemes in topological data analysis
-- Big data and scalability aspects
-- Equivariant neural networks
-- Graph representation learning
-- Higher-order features of unstructured and structured data sets
-- Manifold learning at scale
-- Message passing and beyond
-- New datasets and benchmarks 
-- Topological machine learning
+Key topics include but are not limited to:
+- Exploration of novel applications of deep learning techniques in scientific simulations of partial or ordinary differential equations.
+- Forward and inverse problems in PDEs to equation discovery, design optimization, and beyond, to witness the diverse applications of AI in scientific pursuits. 
+- Explainability and interpretability of AI models in scientific contexts.
 
-We are also happy to accept position or opinion papers on the state of
-the art as well as the future of topics listed above.
+If you are not sure if your topic is suitable for the workshop, please feel free to contact any of the organizers.
 
-# Style
-
-We only accept submissions that have been prepared using LaTeX. Use the
-following workshop style files for your submission:
-
-- [gtrl2022.zip](/assets/gtrl2022.zip)
