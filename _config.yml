@@ -1,27 +1,17 @@
-title: ICLR Workshop on Geometrical and Topological Representation Learning
+title: ICLR Workshop on AI
 description: ""
 
-timezone: America/Toronto
+timezone: Central European Standard Time
 
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
-  Challenge: "https://github.com/geomstats/challenge-iclr-2022"
-  Accepted Papers: "/papers"
+  # Challenge: "https://github.com/geomstats/challenge-iclr-2022"
+  # Accepted Papers: "/papers"
   Speakers: "/speakers"
   Schedule: "/schedule"
   Organizers: "/organizers"
-  Past Events: "/past"
-
-2021:
-  Home: "/2021/"
-  Gather.Town: "https://eventhosts.gather.town/app/521DLws31zFHszdo/GTRL%20@%20ICLR%202021"
-  Call for Papers: "/2021/cfp"
-  Challenge: "/2021/challenge"
-  Speakers: "/2021/speakers"
-  Organizers: "/2021/organizers"
-  Accepted Papers: "/2021/papers"
-  Schedule: "https://iclr.cc/virtual/2021/workshop/2137"
+  # Past Events: "/past"
 
 markdown: kramdown
 
