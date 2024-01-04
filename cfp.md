@@ -15,8 +15,8 @@ papers.
 This workshop is **non-archival**; even though all accepted papers will be
 available on OpenReview, there are *no* formally-published proceedings.
 
-| **Submission link** | OpenReview |
-| **Submission opens** | Friday, January 5, 2024 |
+| **Submission link** | [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci) |
+| **Submission opens** | Thursday, January 4, 2024 |
 | **Submission deadline** | Saturday, February 3, 2024 (23:59 AoE) |
 | **Notification date** | Sunday, March 3, 2024 (23:59 AoE) |
 
