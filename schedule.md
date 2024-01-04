@@ -6,11 +6,11 @@ layout: default
 
 All times are in the CET timezone. 
 
-| Time                | Type                          | Title                                                                                                     |
+| Time                | Type                          | Speaker                                                                                                     |
 | ------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 09:00 AM - 09:15 AM | Introduction and Opening Remarks                          | Organizers                                                                                          |
-| 09:15 AM - 09:45 AM | Invited Talk               | Johannes Brandstetter                                                                                 |
-| 09:45 AM - 10:00 AM | Contributed Talk              | TBA                                                                                          |
+| 9:00 AM - 9:15 AM | Introduction and Opening Remarks                          | Organizers                                                                                          |
+| 9:15 AM - 9:45 AM | Invited Talk               | Johannes Brandstetter                                                                                 |
+| 9:45 AM - 10:00 AM | Contributed Talk              | TBA                                                                                          |
 | 10:00 AM - 10:30 AM | Panel Discussion        | Jakob Macke                                                                     |
 | 10:30 AM - 10:45 AM | Coffee Break                 |                                                                                               |
 | 10:45 AM - 11:15 AM | Poster Session                  |                                                                                           |
@@ -27,4 +27,4 @@ All times are in the CET timezone.
 | 3:45 PM - 4:15 PM | Invited Talk                     | Youngsoo Choi                                     |
 | 4:15 PM - 5:00 PM | Panel Discussion                     | Panelists                                                                            |
 | 5:00 PM - 5:30 PM | Invited Talk                     | Steve Brunton                |
-| 5:30 PM - 05:40 PM | Live                          | Closing Remarks                                                                                           |
+| 5:30 PM - 5:45 PM | Closing Remarks                          | Organizers                                                                                           |
