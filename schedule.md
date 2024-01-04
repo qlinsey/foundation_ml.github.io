@@ -11,7 +11,7 @@ All times are in the CET timezone.
 | 9:00 AM - 9:15 AM | Introduction and Opening Remarks                          | Organizers                                                                                          |
 | 9:15 AM - 9:45 AM | Invited Talk               | Johannes Brandstetter                                                                                 |
 | 9:45 AM - 10:00 AM | Contributed Talk              | TBA                                                                                          |
-| 10:00 AM - 10:30 AM | Panel Discussion        | Jakob Macke                                                                     |
+| 10:00 AM - 10:30 AM | Invited Talk        | Jakob Macke                                                                     |
 | 10:30 AM - 10:45 AM | Coffee Break                 |                                                                                               |
 | 10:45 AM - 11:15 AM | Poster Session                  |                                                                                           |
 | 11:15 AM - 11:45 AM | Invited Talk                    | Paula Harder                                                                                             |
@@ -19,7 +19,7 @@ All times are in the CET timezone.
 | 12:00 PM - 12:30 PM | Invited Talk                     | Chris Rackauckas                                  |
 | 12:30 PM - 1:30 PM | Lunch                     |  |
 | 1:30 PM - 2:00 PM | Invited Talk                    | Meire Fortunato                                             |
-| 2:00 PM - 2:30 PM | Poster                   |                                                                            |
+| 2:00 PM - 2:30 PM | Poster Session                  |                                                                            |
 | 2:30 PM - 2:45 PM | Contributed Talk |     TBA                                                                                     |
 | 2:45 PM - 3:00 PM | Coffee Break                    |                                                                                                 |
 | 3:00 PM - 3:30 PM | Invited Talk       | Alex Townsend                                                                   |
