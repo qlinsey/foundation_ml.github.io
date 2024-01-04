@@ -6,7 +6,7 @@ layout: default
 
 This is the homepage for our [ICLR 2024](https://iclr.cc/) workshop on 'AI4DifferentialEquations in Science'.
 
-The workshop will take place in May 2024 in Vienna, Austria (Hybrid).
+The workshop will take place on Saturday, May 11, 2024 in Vienna, Austria (Hybrid).
 
 # Background
 
