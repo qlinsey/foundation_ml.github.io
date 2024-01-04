@@ -5,12 +5,12 @@ timezone: Central European Standard Time
 
 navigation:
   Home: "/"
-  Call for Papers: "/cfp"
+  Call for Papers: "/AI4DiffEqtnsInSci.github.io/call_for_papers"
   # Challenge: "https://github.com/geomstats/challenge-iclr-2022"
   # Accepted Papers: "/papers"
-  Speakers: "/speakers"
-  Schedule: "/schedule"
-  Organizers: "/organizers"
+  Speakers: "/AI4DiffEqtnsInSci.github.io/speakers"
+  Schedule: "/AI4DiffEqtnsInSci.github.io/schedule"
+  Organizers: "/AI4DiffEqtnsInSci.github.io/organizers"
   # Past Events: "/past"
 
 markdown: kramdown
