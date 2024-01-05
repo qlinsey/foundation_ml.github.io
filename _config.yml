@@ -3,6 +3,8 @@ description: ""
 
 timezone: Central European Standard Time
 
+remote_theme: pages-themes/cayman@v0.2.0
+
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
@@ -21,5 +23,6 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
