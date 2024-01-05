@@ -29,5 +29,5 @@ Key topics include but are not limited to:
 - Forward and inverse problems in PDEs to equation discovery, design optimization, and beyond, to witness the diverse applications of AI in scientific pursuits. 
 - Explainability and interpretability of AI models in scientific contexts.
 
-If you are not sure if your topic is suitable for the workshop, please feel free to contact any of the organizers at ai4diffeqtnsinsci@gmail.com.
+If you are not sure if your topic is suitable for the workshop, please feel free to contact any of the organizers at **ai4diffeqtnsinsci@gmail.com**.
 
