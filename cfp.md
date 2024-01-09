@@ -4,7 +4,7 @@ layout: default
 
 # Call for Papers
 
-We welcome all original research papers of up to **4 pages** in length. This length does not include
+We welcome all original research papers of up to **4 pages** in length. All authors should adhere to [ICLR Author Guide](https://www.iclr.cc/Conferences/2024/AuthorGuide). This length does not include
 references or any supplementary materials. Reviewers are *not* obliged
 to read supplementary materials when reviewing the paper.  Submissions
 should be a single file in `.pdf` format using [this style file](assets/iclr2024.zip). The review process is
