@@ -4,7 +4,7 @@ layout: default
 
 # Overview
 
-This is the homepage for our [ICLR 2024](https://iclr.cc/) workshop on 'AI4DifferentialEquations in Science'.
+This is the homepage for our [ICLR 2024](https://iclr.cc/) workshop on 'Foundation Models'.
 
 The workshop will take place on Saturday, May 11, 2024 in Vienna, Austria (Hybrid).
 
