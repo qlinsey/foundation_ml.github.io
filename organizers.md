@@ -12,7 +12,7 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
-<img src="assets/images/neil_ashton.png" alt="Neil Ashton" width="150" />
+<img src="assets/images/xlp.png" alt="Neil Ashton" width="150" />
 <div class='bioWrapper'>
 [**Neil Ashton**](https://www.linkedin.com/in/neilashton/)
 is a Principal Computational Engineering Specialist at Amazon Web Services (AWS), as well as being a fellow of the Institute of Mechanical Engineering (IMechE). He leads the Amazon-wide Computational Fluid Dynamics (CFD) working group and acts as a CFD subject matter expert across the diverse departments using CFD at Amazon. Prior to joining AWS he obtained a Masters and Ph.D. at the University of Manchester focusing on turbulence modeling, and previous positions were at the University of Oxford, NASA Ames Research Center, and Lotus Formula 1 Team, as well as consultancy roles for a range of automotive and aerospace companies . His expertise is on applying and developing the next generation of CFD approaches with a particular focus on interplay between high-fidelity turbulence models, machine learning and high-performance computing. He created the Automotive CFD Prediction Workshop (whose 4th edition is happening in September 2024), and leads the hybrid RANS-LES technical working group for the 5th AIAA High-Lift Prediction CFD Workshop. In the past year his particular focus has been spearheading the development of industrialized versions of ML methods (e.g MeshGraphNet) that can be used to accelerate the engineering design process. 
