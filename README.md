@@ -1,4 +1,4 @@
-# AI4DifferentialEquations In Science ICLR Workshop
+# Large Scale AI models: Foundation and Applications KDD 2024 Workshop
 
 This is the repository for the web page of our ICLR Workshop on
 AI4DifferentialEquations In Science. Please visit
